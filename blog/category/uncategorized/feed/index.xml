@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     >
+  <channel>
+    <title>ambestengestern.de</title>
+    <link>http://www.ambestengestern.de/blog</link>
+    <description>ich</description>
+    <pubDate>Sun, 15 May 2011 18:46:18 GMT</pubDate>
+    <generator>Blogofile</generator>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <title>Häh?</title>
+      <link>http://www.ambestengestern.de/blog/häh-</link>
+      <pubDate>Tue, 01 Jun 2010 17:22:36 CEST</pubDate>
+      <category><![CDATA[Uncategorized]]></category>
+      <guid isPermaLink="true">http://www.ambestengestern.de/blog/häh-</guid>
+      <description>Häh?</description>
+      <content:encoded><![CDATA[<p>... genau das hab ich nach dem zweiten Lesen von <a href="http://hackr.de/2010/06/01/huh">Huh?</a> gedacht. Beim ersten Lesen fand ich folgende Aussage sehr gut und einleuchtend.</p>
+<blockquote>
+<p>Die Sprache definiert in der Folge den grundsätzlichen Möglichkeitsraum des Sagbaren, aber nicht, was gesagt wird. Und auch das Web spannt einen neuen Möglichkeitsraum auf, definiert aber auch wiederum nicht, was daraus gemacht wird. (systemtheoretisch ist das web kein system, sondern eine art umwelt-öl, das es anderen systemen ermöglicht, sich als umwelten wahrzunehmen und sich also auf neue art zu interpenetrieren; unterm strich: alles interpenetriert alles). Das Web ist zwar an sich trivial, aber das durch Praxis realisierbare Potential ist natürlich gewaltig.</p>
+</blockquote>
+<p>Und beim dritten Lesen hab ich den Artikel dann glaube ich verstanden. </p>
+<p>Wie so oft bleibt mir beim <a href="http://hackr.de">hackr</a> nicht viel mehr als zustimmend zu nicken. Seine verworrenen aber immer auf den Punkt kommenden Satzbauten sind sein Markenzeichen, ebenso wie seine <a href="http://hackr.de/tags/instant+analysis">chili-scharfen</a> <a href="http://hackr.de/tags/analysis">Analysen</a>. Der deutsche <a href="http://sethgodin.typepad.com/">Godin</a> (<code>s/Marketing/Web/</code>). Nicht mehr, nicht weniger.</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

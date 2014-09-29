@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+   >
+  <title type="text">ambestengestern.de</title>
+  <subtitle type="text">ich</subtitle>
+
+  <updated>2011-10-19T19:45:31Z</updated>
+  <generator uri="http://blogofile.com/">Blogofile</generator>
+
+  <link rel="alternate" type="text/html" href="http://www.ambestengestern.de/blog" />
+  <id>http://www.ambestengestern.de/blog/feed/atom/</id>
+  <link rel="self" type="application/atom+xml" href="http://www.ambestengestern.de/blog/feed/atom/" />
+  <entry>
+    <author>
+      <name></name>
+      <uri>http://www.ambestengestern.de/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Reading: The Mutt - How To Skateboard And Not Kill Yourself]]></title>
+    <link rel="alternate" type="text/html" href="http://www.ambestengestern.de/blog/reading--the-mutt---how-to-skateboard-and-not-kill-yourself" />
+    <id>http://www.ambestengestern.de/blog/reading--the-mutt---how-to-skateboard-and-not-kill-yourself</id>
+    <updated>2011-06-09T22:29:02Z</updated>
+    <published>2011-06-09T22:29:02Z</published>
+    <category scheme="http://www.ambestengestern.de/blog" term="4star" />
+    <category scheme="http://www.ambestengestern.de/blog" term="skateboard" />
+    <category scheme="http://www.ambestengestern.de/blog" term="readinglist" />
+    <category scheme="http://www.ambestengestern.de/blog" term="bookreview" />
+    <category scheme="http://www.ambestengestern.de/blog" term="father-son" />
+    <category scheme="http://www.ambestengestern.de/blog" term="biography" />
+    <summary type="html"><![CDATA[Reading: The Mutt - How To Skateboard And Not Kill Yourself]]></summary>
+    <content type="html" xml:base="http://www.ambestengestern.de/blog/reading--the-mutt---how-to-skateboard-and-not-kill-yourself"><![CDATA[<h3 id="personal_background">Personal Background</h3>
+<p>Deep in my heart, I'm a skateboarder. Since my child days in the 80s, where I started skating on a neon-orange all-plastic freestyle board.<br />
+Or rather than calling it "skating", I should call it "an advanced form of standing". Yes, I was and I am that bad. The only real trick I landed was the Ollie, and I didn't even managed to jump obstacles with it.<br />
+</p>
+<p>Nevertheless I love to devour skateboard related stuff (as evidenced by my love affair with <a href="/blog/trans-am">old Transworld Skateboard videos</a>).<br />
+So it was only a matter of time until I had to read Rodney Mullen's biography (you don't know Rodney? Man, you're <a href="http://www.youtube.com/watch?v=1U-cgn3cEGA">missing</a> <a href="http://www.youtube.com/watch?v=UuMmT3E-KVU">out</a>  <a href="http://www.youtube.com/watch?v=PcbCCFb0zXI">on something</a>), as I read <a href="http://www.amazon.de/gp/product/0060958316/ref=as_li_ss_tl?ie=UTF8&amp;tag=keinebescheid-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=0060958316">Tony Hawk's "Occupation Skateboarder"</a> several years ago already and enjoyed it very much.</p>
+<h3 id="contents">Contents</h3>
+<p>Rodney, with the help of Sean Mortimer (who also helped Tony write his biography), tells his life's story in great detail, without ever boring the reader at any point. Growing up in Florida; how he got in contact with skateboarding; how his father made him stop skateboarding and then allowed him to continue again (and this multiple times over); how he got into the world of professional skateboarding (simply by being a very good skateboarder); how he grew a successful business etc etc.</p>
+<p>A big influence in his life was his family. So his growing up in Florida, his hardship that was his dad, how he got to detach himself from the pressures of his home and become a confident person makes up the biggest part of the book. Sure, he also explains how, when and why he invented this or that trick, but the book really is about how Rodney became the person he is, in spite of or because of his home and family.<br />
+And isn't that what a biography is about?</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Simple: It's a very good book. Multiple times while reading I couldn't help but to get totally engulfed with Rodney's fear of losing the only thing that kept him going: Skateboarding. One can really feel what Rodney is feeling throughout the book.<br />
+It almost caused me pain, to read how this seemingly charming person, who achieved outstanding success and inspired thousands of people with his achievements, thought so lowly of himself over and over again.</p>
+<p>As a rather freshly-baked father, who thinks a lot about which and how I want to convey values to my son, the influence of Rodney's father on his life strikes me the most.<br />
+How Rodney loves him although he fears him so much. And how Rodney later on was even able to look past his father's immediate actions and see the purpose in his father's seemingly harsh and unforgiving ways. </p>
+<p>The book is a strong example on how the influence of your family on one's life should not be underestimated. And it's an example of how one can achieve anything he wants, with the right amount of determination, passion and loving what you do.</p>
+<p>Sometime after reading the book I wondered, why someone like Rodney, which according to the book can safely be labeled an introvert, writes down all these intimate feelings. Why does he share all the pain and goes through it again in the process?<br />
+Probably because he wants to show others with similar stories, that they are not alone. That anyone can do it. Do whatever they are good at. Whatever they are passionate about. And that a seemingly nasty father is not simply evil. That the world is not black or white.</p>]]></content>
+  </entry>
+</feed>

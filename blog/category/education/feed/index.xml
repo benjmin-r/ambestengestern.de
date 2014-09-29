@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     >
+  <channel>
+    <title>ambestengestern.de</title>
+    <link>http://www.ambestengestern.de/blog</link>
+    <description>ich</description>
+    <pubDate>Sun, 15 May 2011 18:46:18 GMT</pubDate>
+    <generator>Blogofile</generator>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <title>Note to Self: Bildung</title>
+      <link>http://www.ambestengestern.de/blog/note-to-self:-bildung</link>
+      <pubDate>Wed, 18 Aug 2010 13:43:45 CEST</pubDate>
+      <category><![CDATA[education]]></category>
+      <category><![CDATA[children]]></category>
+      <guid isPermaLink="true">http://www.ambestengestern.de/blog/note-to-self:-bildung</guid>
+      <description>Note to Self: Bildung</description>
+      <content:encoded><![CDATA[<p>(<em>Erinnerung an mich selbst, falls Noah mal als Teenager Schule doof findet, ist hier der Einstieg in eine angemessene "Rede"</em>)</p>
+<p>Bildung ist Freiheit! Sei es, dass man sich mit "mehr" Bildung seinen Job, seine Lebensaufgabe viel eher aussuchen kann (sowohl "corporate" Jobs als auch selbst erschaffene), als auch, dass Bildung Horizonte eröffnet, weil man (meistens jedenfalls) einfach mehr hört und sieht, und teilweise sogar darauf geschult wird, mehr zu sehen, als es auf den ersten Blick scheint.</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

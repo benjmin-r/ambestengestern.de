@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     >
+  <channel>
+    <title>ambestengestern.de</title>
+    <link>http://www.ambestengestern.de/blog</link>
+    <description>ich</description>
+    <pubDate>Mi, 18 Mai 2011 18:37:02 GMT</pubDate>
+    <generator>Blogofile</generator>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <title>Reading: Driving Technical Change</title>
+      <link>http://www.ambestengestern.de/blog/reading--driving-technical-change</link>
+      <pubDate>Fr, 11 Feb 2011 15:36:11 CET</pubDate>
+      <category><![CDATA[teamlead]]></category>
+      <category><![CDATA[bookreview]]></category>
+      <category><![CDATA[evangelism]]></category>
+      <category><![CDATA[4star]]></category>
+      <category><![CDATA[readinglist]]></category>
+      <guid>b'_q1YiljplXUPrO_y8WXA10S1yC0='</guid>
+      <description>Reading: Driving Technical Change</description>
+      <content:encoded><![CDATA[<p>some text </p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

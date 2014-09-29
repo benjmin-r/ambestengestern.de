@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     >
+  <channel>
+    <title>ambestengestern.de</title>
+    <link>http://www.ambestengestern.de/blog</link>
+    <description>ich</description>
+    <pubDate>Mi, 19 Okt 2011 19:45:31 GMT</pubDate>
+    <generator>Blogofile</generator>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <title>Speaking at Web Devcon</title>
+      <link>http://www.ambestengestern.de/blog/speaking-at-web-devcon</link>
+      <pubDate>Mo, 05 Sep 2011 09:03:38 CEST</pubDate>
+      <category><![CDATA[conference]]></category>
+      <category><![CDATA[speaking]]></category>
+      <guid>b'katXTp7YiJgXA33WOyhk5IY9DYI='</guid>
+      <description>Speaking at Web Devcon</description>
+      <content:encoded><![CDATA[<p>I've tinkered with the idea of giving a talk at a "real" (read: commercial) conference for some time already. In the meanwhile life happened and kept me from really acting on this thinking. One could also say, that I simply didn't give the topic enough priority.<br />
+</p>
+<p>But this doesn't mean I wouldn't act, if the chance lies at my doorstep. So, when <a href="FIXME">Markus Stäuble</a> recently asked me, if I would like to give a talk about <a href="http://www.web-devcon.de/Programm/Soziale-Netze-integrieren">integrating social networks</a> (into one's site/applications) at this years <a href="http://www.web-devcon.de/">web devcon</a>, I happily said yes.<br />
+</p>
+<p>If you're at the conference, of course you have to come see my talk. If you're in Hamburg on the 17th or 18th October, and have time for a meetup, just <a href="/about.html">give me a shout</a>.</p>
+<p><strong>Update:</strong> The talk went pretty well, and the slides can be found <a href="/speaking/soziale-netze-integrieren/">here</a>.</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+   >
+  <title type="text">ambestengestern.de</title>
+  <subtitle type="text">ich</subtitle>
+
+  <updated>2011-05-15T18:46:18Z</updated>
+  <generator uri="http://blogofile.com/">Blogofile</generator>
+
+  <link rel="alternate" type="text/html" href="http://www.ambestengestern.de/blog" />
+  <id>http://www.ambestengestern.de/blog/feed/atom/</id>
+  <link rel="self" type="application/atom+xml" href="http://www.ambestengestern.de/blog/feed/atom/" />
+  <entry>
+    <author>
+      <name></name>
+      <uri>http://www.ambestengestern.de/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Wie der Phönix aus der Asche ...]]></title>
+    <link rel="alternate" type="text/html" href="http://www.ambestengestern.de/blog/wie-der-phönix-aus-der-asche-..." />
+    <id>http://www.ambestengestern.de/blog/wie-der-phönix-aus-der-asche-...</id>
+    <updated>2010-05-14T18:35:59Z</updated>
+    <published>2010-05-14T18:35:59Z</published>
+    <category scheme="http://www.ambestengestern.de/blog" term="music" />
+    <category scheme="http://www.ambestengestern.de/blog" term="eits" />
+    <category scheme="http://www.ambestengestern.de/blog" term="zweitagessong" />
+    <summary type="html"><![CDATA[Wie der Phönix aus der Asche ...]]></summary>
+    <content type="html" xml:base="http://www.ambestengestern.de/blog/wie-der-phönix-aus-der-asche-..."><![CDATA[<p>... so oder so ähnlich könnte man den Titel "Catastrophe and the Cure" aus dem Album <a href="http://explosionsinthesky.com/allofasudden.html">All Of Sudden I Miss Everyone</a> von <a href="http://explosionsinthesky.com/">Explosions In The Sky</a> wohl auch übersetzen, wenn man wollte.<br />
+Und aus meiner Sicht fasst das den Song auch recht gut zusammen. </p>
+<p>Jedenfalls ist es einer der größten Songs aller Zeiten und deshalb ein würdiger Einstieg in meine <a href="http://ambestengestern.de/blog/tag/zweitagessong">zweitagessong-Reihe</a>.</p>
+<p><span style="text-decoration: line-through;">Das folgende Video fängt die Stimmung auf einem EITS Konzert auch recht gut ein, auch wenn die Ton-Qualität nicht die allertollste ist. Aber egal. Shut up and enjoy.</span><br />
+Leider gibts das Video nicht mehr. Deshalb jetzt die Variante für visuell Anspruchslose.</p>
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/ZeaXvVLuSJw" frameborder="0" allowfullscreen></iframe>]]></content>
+  </entry>
+</feed>

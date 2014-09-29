@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+   >
+  <title type="text">ambestengestern.de</title>
+  <subtitle type="text">ich</subtitle>
+
+  <updated>2011-05-15T18:46:18Z</updated>
+  <generator uri="http://blogofile.com/">Blogofile</generator>
+
+  <link rel="alternate" type="text/html" href="http://www.ambestengestern.de/blog" />
+  <id>http://www.ambestengestern.de/blog/feed/atom/</id>
+  <link rel="self" type="application/atom+xml" href="http://www.ambestengestern.de/blog/feed/atom/" />
+  <entry>
+    <author>
+      <name></name>
+      <uri>http://www.ambestengestern.de/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Warum meine Prinzessin die Beste ist ...]]></title>
+    <link rel="alternate" type="text/html" href="http://www.ambestengestern.de/blog/warum-meine-prinzessin-die-beste-ist-..." />
+    <id>http://www.ambestengestern.de/blog/warum-meine-prinzessin-die-beste-ist-...</id>
+    <updated>2011-01-18T10:51:20Z</updated>
+    <published>2011-01-18T10:51:20Z</published>
+    <category scheme="http://www.ambestengestern.de/blog" term="pictures" />
+    <category scheme="http://www.ambestengestern.de/blog" term="birthday" />
+    <summary type="html"><![CDATA[Warum meine Prinzessin die Beste ist ...]]></summary>
+    <content type="html" xml:base="http://www.ambestengestern.de/blog/warum-meine-prinzessin-die-beste-ist-..."><![CDATA[<p>... kann man daran erkennen, dass Sie mir Cookies und Brownies von <a href="http://www.cookieinthebox.de/">Cookie in the Box</a> zum Geburtstag direkt an den Arbeitsplatz schickt. Weil sie genau weiß, dass ich es nicht geregelt kriege eine Geburtstags-Kleinigkeit für meine Kollegen zu besorgen. </p>
+<p>Und weil sie weiß, dass ich süchtig nach Brownies bin :)</p>
+<p><object width="400" height="300"> <param name="flashvars" value="offsite=true&lang=de-de&page_show_url=%2Fphotos%2Fnureineide%2Ftags%2Fbirthday2011%2Fshow%2F&page_show_back_url=%2Fphotos%2Fnureineide%2Ftags%2Fbirthday2011%2F&user_id=50831928@N00&tags=birthday2011&jump_to=&start_index="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowFullScreen="true" flashvars="offsite=true&lang=de-de&page_show_url=%2Fphotos%2Fnureineide%2Ftags%2Fbirthday2011%2Fshow%2F&page_show_back_url=%2Fphotos%2Fnureineide%2Ftags%2Fbirthday2011%2F&user_id=50831928@N00&tags=birthday2011&jump_to=&start_index=" width="400" height="300"></embed></object></p>
+<p>Und selbstverständlich ist das nicht der einzige Grund, weshalb sie die Beste und Tollste ist. </p>
+<p>Danke, Kim! ICH LIEBE DICH!!!</p>]]></content>
+  </entry>
+</feed>

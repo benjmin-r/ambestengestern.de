@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+   >
+  <title type="text">ambestengestern.de</title>
+  <subtitle type="text">ich</subtitle>
+
+  <updated>2011-10-19T19:45:31Z</updated>
+  <generator uri="http://blogofile.com/">Blogofile</generator>
+
+  <link rel="alternate" type="text/html" href="http://www.ambestengestern.de/blog" />
+  <id>http://www.ambestengestern.de/blog/feed/atom/</id>
+  <link rel="self" type="application/atom+xml" href="http://www.ambestengestern.de/blog/feed/atom/" />
+  <entry>
+    <author>
+      <name></name>
+      <uri>http://www.ambestengestern.de/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Reading: Why Does Software Cost So Much]]></title>
+    <link rel="alternate" type="text/html" href="http://www.ambestengestern.de/blog/reading--why-does-software-cost-so-much" />
+    <id>http://www.ambestengestern.de/blog/reading--why-does-software-cost-so-much</id>
+    <updated>2011-03-01T16:19:00Z</updated>
+    <published>2011-03-01T16:19:00Z</published>
+    <category scheme="http://www.ambestengestern.de/blog" term="bookreview" />
+    <category scheme="http://www.ambestengestern.de/blog" term="tomdemarco" />
+    <category scheme="http://www.ambestengestern.de/blog" term="0star" />
+    <category scheme="http://www.ambestengestern.de/blog" term="readinglist" />
+    <summary type="html"><![CDATA[Reading: Why Does Software Cost So Much]]></summary>
+    <content type="html" xml:base="http://www.ambestengestern.de/blog/reading--why-does-software-cost-so-much"><![CDATA[<p>The book by <a href="http://en.wikipedia.org/wiki/Tom_DeMarco">Tom DeMarco</a> with the subtitle "and other puzzles of the information age" is a collection of essays, some of which hadn't been published prior to this book.</p>
+<p>I must admit, I fell victim to the sensational title. I was aware, that the book is from 1995, but I thought Tom DeMarco (of whom I haven't read any other book yet) was some kind of quality-guarantue, and one can't do anything wrong when reading any of his works.<br />
+Boy, was I mistaken. Guess what his answer to the books title question is?! The professionals in the software world were simply too good in the past, and almost always over-performed and fulfilled unreasonably high expectations and requirements.<br />
+So what should we do in the future? Tell our customers to relax and point them to our great achievements of the past, while also telling them that we all should really get more realistic about expectations and costs.<br />
+All very solid advice.</p>
+<p>The book even has a tutorial on "Desktop Video". You know, the kind where you record your computer's graphic output on VCR so you don't have to handle with Overhead Projectors anymore.</p>
+<p>Yes, it was my own fault, to have bought and read this book.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>A very outdated book, that demonstrates very clearly that not all writing is for eternity.</p>]]></content>
+  </entry>
+</feed>

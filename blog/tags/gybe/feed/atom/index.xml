@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+   >
+  <title type="text">ambestengestern.de</title>
+  <subtitle type="text">ich</subtitle>
+
+  <updated>2011-10-19T19:45:31Z</updated>
+  <generator uri="http://blogofile.com/">Blogofile</generator>
+
+  <link rel="alternate" type="text/html" href="http://www.ambestengestern.de/blog" />
+  <id>http://www.ambestengestern.de/blog/feed/atom/</id>
+  <link rel="self" type="application/atom+xml" href="http://www.ambestengestern.de/blog/feed/atom/" />
+  <entry>
+    <author>
+      <name></name>
+      <uri>http://www.ambestengestern.de/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Goodspeed! You Black Emperor - Sleep]]></title>
+    <link rel="alternate" type="text/html" href="http://www.ambestengestern.de/blog/goodspeed!-you-black-emperor---sleep" />
+    <id>http://www.ambestengestern.de/blog/goodspeed!-you-black-emperor---sleep</id>
+    <updated>2011-04-17T10:43:26Z</updated>
+    <published>2011-04-17T10:43:26Z</published>
+    <category scheme="http://www.ambestengestern.de/blog" term="gybe" />
+    <category scheme="http://www.ambestengestern.de/blog" term="music" />
+    <category scheme="http://www.ambestengestern.de/blog" term="zweitagessong" />
+    <summary type="html"><![CDATA[Goodspeed! You Black Emperor - Sleep]]></summary>
+    <content type="html" xml:base="http://www.ambestengestern.de/blog/goodspeed!-you-black-emperor---sleep"><![CDATA[<p>Das Lied beginnt mit der traurigsten gesprochenen Einleitung überhaupt. Ein alter Mann erzählt von <a href="http://de.wikipedia.org/wiki/Coney_Island">Coney Island</a> bzw der Version von Coney Island, die er als Kind/Jugendlicher erlebt hat. </p>
+<blockquote>
+<p>Coney Island. They called Coney Island the playground of the world. There was no place like it. In the whole world. Like Coney Island when I was a youngster. [...] Anyways, let's see, what else? [...] they don't sleep anymore on the beach. </p>
+</blockquote>
+<p>Und das Lied, ist nicht nur die musikgewordene Traurigkeit dieser Einleitung, sondern noch viel mehr. Es hat, wie nahezu alle GY!BE Lieder, eine unfassbare Kraft. Und trotz aller Traurigkeit auch Hoffnung. Oder Trotz? Oder auch nur eine unglaublich große Projektionsfläche?! Letztlich muss das jeder für sich entscheiden.</p>
+<p>Für mich waren/sind GY!BE Einstieg in ein komplett neues Musikuniversum. Eher zufällig gefunden, im Veranstaltungskalender des Frankfurter <a href="http://mousonturm.de/">Mousonturm</a>, könnte ich mich heute noch schwarz ärgern, dass ich damals (2000? 2001?) nicht zum Konzert gegangen bin. Denn es war ihre letzte Tour durch Deutschland (und Europa?!).<br />
+Seitdem sind sie mehr oder weniger getrennt und haben außer im letzten Jahr, in dem sie einige wenige Konzerte, wie z.B. beim legendären und großartigen <a href="http://www.youtube.com/watch?v=NmyAF_D9Mzk">ATP Festival</a>, gespielt haben, keinen neuen Output geliefert.<br />
+UPDATE: Stimmt nicht. Dieses Jahr spielen sie <a href="http://www.atpfestival.com/newsview/1104121140.php">wieder auf dem ATP Festival</a>.</p>
+<p>Anyways: Sleep ist einer der größten Songs aller Zeiten für mich. Wir haben soviel zusammen erlebt, wir zwei. Ganze Nächte durch Frankfurt laufen. Alles schläft nur Benjamin läuft mit des alten Manne Stimme im Ohr durch die Stadt. Schaurig schön.</p>
+<p><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/q8kgu6rf0Ek?fs=1&amp;hl=de_DE"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/q8kgu6rf0Ek?fs=1&amp;hl=de_DE" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object></p>]]></content>
+  </entry>
+</feed>

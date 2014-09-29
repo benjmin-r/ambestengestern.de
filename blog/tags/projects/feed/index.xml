@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     >
+  <channel>
+    <title>ambestengestern.de</title>
+    <link>http://www.ambestengestern.de/blog</link>
+    <description>ich</description>
+    <pubDate>Mi, 19 Okt 2011 19:45:31 GMT</pubDate>
+    <generator>Blogofile</generator>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <title>Project Idea: Learning to Read Code</title>
+      <link>http://www.ambestengestern.de/blog/project-idea--learning-to-read-code</link>
+      <pubDate>Do, 09 Jun 2011 09:24:36 CEST</pubDate>
+      <category><![CDATA[code]]></category>
+      <category><![CDATA[projects]]></category>
+      <guid>b'mxDOF9hu20hGrs5wmfUJHCD_caw='</guid>
+      <description>Project Idea: Learning to Read Code</description>
+      <content:encoded><![CDATA[<p>... with the help of <a href="/projects/fibel.html">Fibel</a>.</p>
+<h3 id="idea">Idea</h3>
+<p>Imagine a webapp at which you can throw nearly every github or bitbucket repo URL, and it will render the code found in the repo with the help of <a href="http://jashkenas.github.com/docco/">docco</a>, <a href="http://rtomayko.github.com/shocco/">shocco</a> or any other tool with a similar feature set.<br />
+</p>
+<p>Added Bonus:</p>
+<ul>
+<li>Allow the creation of "tours" through code, so a user can show off certain features or solutions, in order to aid in the understanding of the code or specific programming constructs.</li>
+<li>Allow the annotation of the code trough the webapp, and the code is reflected back to a forked edition of the original repo (which might serve as a basis for a documentation enhancing pull-request).</li>
+</ul>
+<h3 id="why">Why?</h3>
+<p>I've been thinking a lot about what makes a good programmer and how to get there. For quite some time already. Which is not very surprising, when you consider, that my job as a teamlead consists (not only, of course) of evaluating potential candidates and further developing the current team members.</p>
+<p><a href="http://manifesto.softwarecraftsmanship.org/">Software</a> <a href="http://en.wikipedia.org/wiki/Software_craftsmanship">Craftmanship</a> is what comes to mind. But also concepts like Code Katas, Code Retreats (I will attend the <a href="http://www.coderetreat-berlin.de/">Code Retreat Berlin</a> in July, but more on that in another post) etc etc.</p>
+<p>The one thing however, that I thought about how to solve best, was "reading good code" as a means of getting a feel how to solve problems "the right way" and the idioms and "culture" of a programming language. And as a <a href="https://convore.com/python/examples-of-good-python-code/">thread on convore</a> lately indicates, I'm not the only one thinking about this.<br />
+And as I'm looking for a <a href="/projects.html">sensible project to implement</a> I thought that this would be a good direction for a project.</p>
+<p>We'll see where I take this idea in the upcoming weeks. I nevertheless added it to my <a href="/projects.html">projects list</a> and dubbed it <a href="/projects/fibel.html">Fibel</a> (which is the <a href="http://de.wikipedia.org/wiki/Fibel_(Schulbuch)">common name</a> for the first reading book children get in german elementary schools).</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

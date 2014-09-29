@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     >
+  <channel>
+    <title>ambestengestern.de</title>
+    <link>http://www.ambestengestern.de/blog</link>
+    <description>ich</description>
+    <pubDate>Mi, 19 Okt 2011 19:45:31 GMT</pubDate>
+    <generator>Blogofile</generator>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <title>Warum bloggen?</title>
+      <link>http://www.ambestengestern.de/blog/warum-bloggen-</link>
+      <pubDate>Do, 06 Mai 2010 10:10:15 CEST</pubDate>
+      <category><![CDATA[about]]></category>
+      <guid>b'QFs1nE6WMudzS3pVlfXAASlBM1c='</guid>
+      <description>Warum bloggen?</description>
+      <content:encoded><![CDATA[<p>... weil es <a href="http://anmutunddemut.de/">da</a> <a href="http://konnexus.net/">draußen</a> <a href="http://misscaro.blogspot.com/">jede</a> Menge interessante persönliche Blogs gibt, die ich immer wieder sehr gerne lese, und mich beim Lesen immer wieder ein Stück lebendiger fühle. So wie wenn ich eine gute Kurzgeschichte oder ein tolles Gedicht lese. 
+Und weil ich beim Lesen dieser tollen Blogs immer wieder ein Gefühl in der Richtung von "genauso einen Moment hast du doch auch gestern gehabt. Und warum hast du ihn nicht festgehalten?" habe, und das ändern will.
+Und vielleicht auch ein bißchen das "laßt mich mitspielen".</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

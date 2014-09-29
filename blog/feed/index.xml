@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     >
+  <channel>
+    <title>ambestengestern.de</title>
+    <link>http://www.ambestengestern.de/blog</link>
+    <description>ich</description>
+    <pubDate>Mi, 19 Okt 2011 19:45:31 GMT</pubDate>
+    <generator>Blogofile</generator>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <title>Speaking at Web Devcon</title>
+      <link>http://www.ambestengestern.de/blog/speaking-at-web-devcon</link>
+      <pubDate>Mo, 05 Sep 2011 09:03:38 CEST</pubDate>
+      <category><![CDATA[conference]]></category>
+      <category><![CDATA[speaking]]></category>
+      <guid>b'katXTp7YiJgXA33WOyhk5IY9DYI='</guid>
+      <description>Speaking at Web Devcon</description>
+      <content:encoded><![CDATA[<p>I've tinkered with the idea of giving a talk at a "real" (read: commercial) conference for some time already. In the meanwhile life happened and kept me from really acting on this thinking. One could also say, that I simply didn't give the topic enough priority.<br />
+</p>
+<p>But this doesn't mean I wouldn't act, if the chance lies at my doorstep. So, when <a href="FIXME">Markus Stäuble</a> recently asked me, if I would like to give a talk about <a href="http://www.web-devcon.de/Programm/Soziale-Netze-integrieren">integrating social networks</a> (into one's site/applications) at this years <a href="http://www.web-devcon.de/">web devcon</a>, I happily said yes.<br />
+</p>
+<p>If you're at the conference, of course you have to come see my talk. If you're in Hamburg on the 17th or 18th October, and have time for a meetup, just <a href="/about.html">give me a shout</a>.</p>
+<p><strong>Update:</strong> The talk went pretty well, and the slides can be found <a href="/speaking/soziale-netze-integrieren/">here</a>.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Next Steps for the German Software Craftsmanship Community</title>
+      <link>http://www.ambestengestern.de/blog/next-steps-for-the-german-software-craftsmanship-community</link>
+      <pubDate>Sa, 03 Sep 2011 09:32:31 CEST</pubDate>
+      <category><![CDATA[sc]]></category>
+      <category><![CDATA[conference]]></category>
+      <category><![CDATA[socrate2011]]></category>
+      <category><![CDATA[softwarecraftsmanship]]></category>
+      <guid>b'spzSmrvsUrMTJV5D6Yte6cpKIFE='</guid>
+      <description>Next Steps for the German Software Craftsmanship Community</description>
+      <content:encoded><![CDATA[<div style="float:right; margin:20px 0 15px 15px;">
+<img src="http://socrates2011.pbworks.com/f/SoCraTesWappen.png" width="200" height="200" alt="Logo of 'SoCraTes'' conference" title=""SoCraTes Logo""/>
+</div>
+
+<p>I spent the last one-and-a-half days at the <a href="http://socrates2011.pbworks.com/">SoCraTes</a> conference. I'm still kind of stoked about all the great people I met and were able to talk. It's such a great feeling to be part of such a clever and diverse community. Thanks to <a href="https://twitter.com/NicoleRauch">Nicole</a>, <a href="https://twitter.com/leiderleider">Andreas</a> and all the others to make this event happen.</p>
+<h3 id="fishbowl_discussion_at_socrates">Fishbowl Discussion at SoCraTes</h3>
+<p>I'll certainly talk/blog more about SoCraTes and Software Craftsmanship in general on this blog in the next weeks and months. But for now, I want to summarize the outcome (if you can say, there was one) of the <a href="http://en.wikipedia.org/wiki/Fishbowl_(conversation)">Fishbowl discussion</a>, that was taking place on Friday evening, the conference's first day.</p>
+<p>The discussion started with <a href="https://twitter.com/leiderleider">Andreas</a> , <a href="https://twitter.com/ade_oshineye">Ade</a>, <a href="https://twitter.com/urilavi">Uri</a>, <a href="https://twitter.com/mgaertne">Markus</a> and <a href="https://twitter.com/sandromancuso">Sandro</a>. For the uninitiated, I might add, that Sandro and Uri both started very successful Software Craftsmanship communities in their respective cities.</p>
+<h3 id="next_steps">Next Steps</h3>
+<p>The first question was (paraphrased) "what are the next concrete steps, to get the Software Craftsmanship community in germany off the ground". And although the question was not answered in a definitive way by anyone throughout the whole discussion, there were a lot of possible steps, tips &amp; tricks shared, that I want to note down as a reference. Note that I might paraphrase one or the other in order to better convey the point (or at least the point that I understood):</p>
+<ol>
+<li><em>"Find people who are committed to run the groups"</em><br />
+This is kind of obvious to most, but still the first and most important point there is to actually starting the communities. Period.</li>
+<li><em>"Focus on small geographical areas"</em><br />
+We do not and should not aim to build geographical disperse communities/groups. So this is almost abvious. Go for the people in your vicinity, in your city. This does not mean, that you cannot cooperate with groups in other cities, like visiting "partner-groups" regularly or organizing joint-events every now and then.</li>
+<li><em>"Define what's not included"</em><br />
+<a href="https://twitter.com/ade_oshineye">Ade</a> brought this one up, which generally falls under the category of "expectation management". But putting it in these exact words is so much more tangible and to the point.</li>
+<li><em>"Talk about basic principles and skills first (in the meetings)"</em><br />
+This was <a href="https://twitter.com/urilavi">Uri</a>'s suggestion. I think this is meant to fulfill the "Raising the bar" tagline of the Software Craftsmanship Manifesto quickly and demonstrate to attendee's of community meetings, that it's not about talk &amp; discussion only.</li>
+<li><em>"Promote to people outside the normal groups"</em><br />
+I can't remember anymore who said it, but it sure is a way to make sure, that a Software Craftsmanship community/group is not just like any other tech-specific group. Software Craftsmanship groups should aim to encompass a broader goal. It's not about technology <em>xyz</em>, but about pushing boundaries, getting better at what we do.</li>
+<li><em>"Work with other local communities // cross-promote events"</em><br />
+Which boils down to: Be a good &amp; respectful "citizen". Don't try to "steal" members, but rather work together to foster great communities, not just one great community.</li>
+<li><em>"Put limits on how many people are coming"</em>
+This is not a next step or tip per se. It was meant as advice for a later stage, when meetings <em>may</em> get out of hand (with regards to size &amp; scope) and is meant to be used in conjunction with point 3. above.</li>
+</ol>
+<h3 id="what_i_think_are_next_steps">What I think are next steps:</h3>
+<p>It was decided during the Fishbowl on Friday evening, that a session would be held during the conference's <a href="http://en.wikipedia.org/wiki/Open_Space_Technology">Open Space</a> on saturday, in which concrete next steps on how to start/launch the Software Craftsmanship community in germany would be decided.<br />
+</p>
+<p>However, I was not able to attend the conference's second day. So I decided to contribute to this Open Space session from afar and put forth the next actions, that are necessary and sensible from my point of view:</p>
+<ul>
+<li><strong>Create a mailinglist for group organizers</strong>, to allow for event coordination and exchange of ideas, tips, tricks &amp; motivation. Everybody who joins this mailinglist declares to organize a new or support an existing Software Craftsmanship group in his/her german city.</li>
+<li><strong>Have at least 2-3 Software Craftsmanship groups across germany</strong> by December 2011.<br />
+<a href="https://twitter.com/sshishkin">Sergey</a> proposed that the <a href="http://blog.coderetreat.com/global-day-of-coderetreat">Global Day of CodeRetreat</a> would be a good setting for promoting the forming of Software Craftsmanship groups. (this also aligns perfectly with my plan to organize a <a href="http://www.coderetreat-rhein-main.com/">CodeRetreat in Frankfurt or Rhein-Main area</a>, so I might be biased)</li>
+</ul>
+<p>That's already it. From there on, the local group initiators/organizers will have to organize and promote their groups. And this of course will depend on the local circumstances. But the mailing-list can serve as a back-up for all group leaders to work together and support each other.</p>
+<h3 id="talk_to_me">Talk to me</h3>
+<p>Want to discuss this article, or how to promote Software Craftsmanship in germany? Contact me on <a href="https://twitter.com/benjamin">Twitter</a> or via <a href="/about.html">email</a></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Reading: Crazy For The Storm</title>
+      <link>http://www.ambestengestern.de/blog/reading--crazy-for-the-storm</link>
+      <pubDate>Fr, 10 Jun 2011 10:12:37 CEST</pubDate>
+      <category><![CDATA[bookreview]]></category>
+      <category><![CDATA[father-son]]></category>
+      <category><![CDATA[4star]]></category>
+      <category><![CDATA[readinglist]]></category>
+      <guid>b'u8dZh1o3CRumPM7jsfmSsj-BdMw='</guid>
+      <description>Reading: Crazy For The Storm</description>
+      <content:encoded><![CDATA[<h3 id="personal_background">Personal Background</h3>
+<p>Really nothing special to how I got to this book. I think it was an Amazon recommendation after I looked at some Jon Krakauer books.
+I expected the <a href="http://www.amazon.de/gp/product/006176678X/ref=as_li_ss_tl?ie=UTF8&amp;tag=ambestengestern-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=006176678X">"Crazy For The Storm"</a> to be a "tough-surviver" story, of someone who couldn't get enough adrenaline and for whom surviving a plane crash would give the ultimate "I-did-it" thrill.<br />
+Boy, was I mistaken. The book is not a simple survival story. But more on that later.</p>
+<h3 id="contents">Contents</h3>
+<p>The author Norman Ollestad tells the story of how he survived a plane crash as an eleven-year old and the events leading up to the crash.<br />
+Living with his mother and her boy-friend, after their parents got divorced in his early childhood, Norman still has quite a intense relationship with his father, an ex-actor turned surfing- &amp; skying lawyer in California. The father-son relationship is aptly summed up by the name with which Norman Sr. calls his son on important occasions: "Boy Wonder".
+Norman Sr. teaches his son how to surf and ski, and pushes his limits in not only these sports over and over again. Norman Jr. almost always hates it, and shows it openly. But his father either ignores it or pushes his son gently but firmly towards and past his fears.</p>
+<p>The book's chapters alternate between describing the plane crash, and Norman Jr's survival thereof, and Norman's life with and later without his father shortly before and after the crash.  The pace of the alternating chapters steadily increases throughout the book and climaxes shortly beforce the book's end.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Quite in contrast to my above mentioned expectation, the book is  instead a very strong and heartfelt account of a very intense father-son relationship. Similarly to my previous read <a href="/blog/reading--the-mutt---how-to-skateboard-and-not-kill-yourself/">"The Mutt"</a>, although the book tells a very different father-son relationship, I found the story very gripping and incidently very much of what interests me at the moment.</p>
+<p>Of course the book is very sad at times. But you always know while reading, that the book doesn't want to simply make you sad, but rather wants to tell you, that there are greater and more important things in life. That, no matter what, the current moment must be lived to the max. And that it's (in part) a father's responsibility to show this to his children.</p>
+<p>And again, similarly to <a href="/blog/reading--the-mutt---how-to-skateboard-and-not-kill-yourself/">"The Mutt"</a>, it's a strongly told example on the importance and power of parents in one's life.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Reading: The Mutt - How To Skateboard And Not Kill Yourself</title>
+      <link>http://www.ambestengestern.de/blog/reading--the-mutt---how-to-skateboard-and-not-kill-yourself</link>
+      <pubDate>Do, 09 Jun 2011 22:29:02 CEST</pubDate>
+      <category><![CDATA[4star]]></category>
+      <category><![CDATA[skateboard]]></category>
+      <category><![CDATA[readinglist]]></category>
+      <category><![CDATA[bookreview]]></category>
+      <category><![CDATA[father-son]]></category>
+      <category><![CDATA[biography]]></category>
+      <guid>b'HqgsZsYE-9qDv3zAGEMeisbQa8s='</guid>
+      <description>Reading: The Mutt - How To Skateboard And Not Kill Yourself</description>
+      <content:encoded><![CDATA[<h3 id="personal_background">Personal Background</h3>
+<p>Deep in my heart, I'm a skateboarder. Since my child days in the 80s, where I started skating on a neon-orange all-plastic freestyle board.<br />
+Or rather than calling it "skating", I should call it "an advanced form of standing". Yes, I was and I am that bad. The only real trick I landed was the Ollie, and I didn't even managed to jump obstacles with it.<br />
+</p>
+<p>Nevertheless I love to devour skateboard related stuff (as evidenced by my love affair with <a href="/blog/trans-am">old Transworld Skateboard videos</a>).<br />
+So it was only a matter of time until I had to read Rodney Mullen's biography (you don't know Rodney? Man, you're <a href="http://www.youtube.com/watch?v=1U-cgn3cEGA">missing</a> <a href="http://www.youtube.com/watch?v=UuMmT3E-KVU">out</a>  <a href="http://www.youtube.com/watch?v=PcbCCFb0zXI">on something</a>), as I read <a href="http://www.amazon.de/gp/product/0060958316/ref=as_li_ss_tl?ie=UTF8&amp;tag=keinebescheid-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=0060958316">Tony Hawk's "Occupation Skateboarder"</a> several years ago already and enjoyed it very much.</p>
+<h3 id="contents">Contents</h3>
+<p>Rodney, with the help of Sean Mortimer (who also helped Tony write his biography), tells his life's story in great detail, without ever boring the reader at any point. Growing up in Florida; how he got in contact with skateboarding; how his father made him stop skateboarding and then allowed him to continue again (and this multiple times over); how he got into the world of professional skateboarding (simply by being a very good skateboarder); how he grew a successful business etc etc.</p>
+<p>A big influence in his life was his family. So his growing up in Florida, his hardship that was his dad, how he got to detach himself from the pressures of his home and become a confident person makes up the biggest part of the book. Sure, he also explains how, when and why he invented this or that trick, but the book really is about how Rodney became the person he is, in spite of or because of his home and family.<br />
+And isn't that what a biography is about?</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Simple: It's a very good book. Multiple times while reading I couldn't help but to get totally engulfed with Rodney's fear of losing the only thing that kept him going: Skateboarding. One can really feel what Rodney is feeling throughout the book.<br />
+It almost caused me pain, to read how this seemingly charming person, who achieved outstanding success and inspired thousands of people with his achievements, thought so lowly of himself over and over again.</p>
+<p>As a rather freshly-baked father, who thinks a lot about which and how I want to convey values to my son, the influence of Rodney's father on his life strikes me the most.<br />
+How Rodney loves him although he fears him so much. And how Rodney later on was even able to look past his father's immediate actions and see the purpose in his father's seemingly harsh and unforgiving ways. </p>
+<p>The book is a strong example on how the influence of your family on one's life should not be underestimated. And it's an example of how one can achieve anything he wants, with the right amount of determination, passion and loving what you do.</p>
+<p>Sometime after reading the book I wondered, why someone like Rodney, which according to the book can safely be labeled an introvert, writes down all these intimate feelings. Why does he share all the pain and goes through it again in the process?<br />
+Probably because he wants to show others with similar stories, that they are not alone. That anyone can do it. Do whatever they are good at. Whatever they are passionate about. And that a seemingly nasty father is not simply evil. That the world is not black or white.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Reading: World War Z</title>
+      <link>http://www.ambestengestern.de/blog/reading--world-war-z</link>
+      <pubDate>Do, 09 Jun 2011 21:26:35 CEST</pubDate>
+      <category><![CDATA[bookreview]]></category>
+      <category><![CDATA[4star]]></category>
+      <category><![CDATA[zombies]]></category>
+      <category><![CDATA[readinglist]]></category>
+      <guid>b'GlY-ODTW_kng5fJZyNAKV-3Cc6Q='</guid>
+      <description>Reading: World War Z</description>
+      <content:encoded><![CDATA[<h3 id="personal_background">Personal Background</h3>
+<p>The book <a href="http://www.amazon.de/gp/product/B003WE9TU8/ref=as_li_ss_il?ie=UTF8&amp;tag=ambestengestern-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B003WE9TU8">"World War Z" by Max Brooks</a> was given to me by my long-time friend D. He had read it, and didn't want to take it back to Australia with him (airlines and luggage; a world of it's own).<br />
+Of course he recommended it as being a good read, but not with much fervor. So I put it on my stack. But somehow it always tickled me when I looked at it, because I found the story very much intriguing. </p>
+<h3 id="contents">Contents</h3>
+<p>The book's subtitle is "An Oral History Of The Zombie World War". And this is pretty much it.<br />
+The setting of the book is a world, where zombies are a reality. They walk the earth and brought the earth's population of humans onto the brink of extinction. But in an almost 10 year fight, the already mentioned "Zombie World War", people managed to fight back, and reclaim most of earth's surface.<br />
+</p>
+<p>The book tells the story, starting with the outbreak until quite some time after the war, as a series of interviews with eye witnesses from around the world. </p>
+<h3 id="conclusion">Conclusion</h3>
+<p>While the plot at first doesn't sound too original, Max Brooks manages to bring a level of authenticity into the oral accounts that ranges from stirring to shocking and simply frightening.<br />
+At some point I even asked myself if I really should read the book shortly before going to bed, because I thought, that it might keep me from sleeping well (keep in mind, that this comes from the guy who wasn't able to play Doom without God Mode because it was too exciting). Rest assured, my one-year old has a firmer grip on my sleeping habits, than any book can ever achieve.</p>
+<p>So what I'm really trying to say is: The book gives a rather standard plot-idea a serious twist and near-perfect execution and is therefore a very entertaining read.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Project Idea: Learning to Read Code</title>
+      <link>http://www.ambestengestern.de/blog/project-idea--learning-to-read-code</link>
+      <pubDate>Do, 09 Jun 2011 09:24:36 CEST</pubDate>
+      <category><![CDATA[code]]></category>
+      <category><![CDATA[projects]]></category>
+      <guid>b'mxDOF9hu20hGrs5wmfUJHCD_caw='</guid>
+      <description>Project Idea: Learning to Read Code</description>
+      <content:encoded><![CDATA[<p>... with the help of <a href="/projects/fibel.html">Fibel</a>.</p>
+<h3 id="idea">Idea</h3>
+<p>Imagine a webapp at which you can throw nearly every github or bitbucket repo URL, and it will render the code found in the repo with the help of <a href="http://jashkenas.github.com/docco/">docco</a>, <a href="http://rtomayko.github.com/shocco/">shocco</a> or any other tool with a similar feature set.<br />
+</p>
+<p>Added Bonus:</p>
+<ul>
+<li>Allow the creation of "tours" through code, so a user can show off certain features or solutions, in order to aid in the understanding of the code or specific programming constructs.</li>
+<li>Allow the annotation of the code trough the webapp, and the code is reflected back to a forked edition of the original repo (which might serve as a basis for a documentation enhancing pull-request).</li>
+</ul>
+<h3 id="why">Why?</h3>
+<p>I've been thinking a lot about what makes a good programmer and how to get there. For quite some time already. Which is not very surprising, when you consider, that my job as a teamlead consists (not only, of course) of evaluating potential candidates and further developing the current team members.</p>
+<p><a href="http://manifesto.softwarecraftsmanship.org/">Software</a> <a href="http://en.wikipedia.org/wiki/Software_craftsmanship">Craftmanship</a> is what comes to mind. But also concepts like Code Katas, Code Retreats (I will attend the <a href="http://www.coderetreat-berlin.de/">Code Retreat Berlin</a> in July, but more on that in another post) etc etc.</p>
+<p>The one thing however, that I thought about how to solve best, was "reading good code" as a means of getting a feel how to solve problems "the right way" and the idioms and "culture" of a programming language. And as a <a href="https://convore.com/python/examples-of-good-python-code/">thread on convore</a> lately indicates, I'm not the only one thinking about this.<br />
+And as I'm looking for a <a href="/projects.html">sensible project to implement</a> I thought that this would be a good direction for a project.</p>
+<p>We'll see where I take this idea in the upcoming weeks. I nevertheless added it to my <a href="/projects.html">projects list</a> and dubbed it <a href="/projects/fibel.html">Fibel</a> (which is the <a href="http://de.wikipedia.org/wiki/Fibel_(Schulbuch)">common name</a> for the first reading book children get in german elementary schools).</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Reading: The Graveyard Book</title>
+      <link>http://www.ambestengestern.de/blog/reading--the-graveyard-book</link>
+      <pubDate>Di, 17 Mai 2011 20:05:52 CEST</pubDate>
+      <category><![CDATA[bookreview]]></category>
+      <category><![CDATA[4star]]></category>
+      <category><![CDATA[readinglist]]></category>
+      <guid>b'4GcJky0V07m9YGt1gumqvDZeHN0='</guid>
+      <description>Reading: The Graveyard Book</description>
+      <content:encoded><![CDATA[<h3 id="personal_background">Personal Background</h3>
+<p>During the course of a wonderful afternoon (bitter-cold but sunny; walking around Bad Nauheim's pond; refreshing heart-warming shared memories) were I visited an old friend, whom I generally see way too rarely, the topic of books came up. As it happens almost always, when we meet or talk.<br />
+I lamented that I had read too few really good books in the last weeks and months. He instantly pulled out "The Graveyard Book" by Neil Gaiman, handed it to me and said something along the lines of: "Then just read this".</p>
+<p>It took me several months to get around to reading it. But I did so in the best circumstances one could read such a book: During my parental leave, when my 1-year old son held his midday sleeps. Lying next to him, being able to look at him by only turning my head a little.<br />
+</p>
+<h3 id="contents">Contents</h3>
+<p>The book is the story of Bod's, short for Nobody Owens, childhood. It starts off quite sadly, when his whole family is murdered. Bod only survives by chance (or so it seems at first), and because he's instantly adopted by Mr. and Mrs. Owens, a couple of ghosts.<br />
+The book goes on to tell Bod's experiences as a living "man" being raised by ghosts and other supernatural beings, until it culminates in a grand finale, where also the real story behind the murdered family is unveiled.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>The book is a great children's story for grown-ups. And I mean this is the best possible way. It's a charming read, with lots of fantastic ideas. Although I found it a little prolonged during the middle, it was very entertaining.<br />
+Still, it's not a book I'd count among the best I've ever read and will want to read time and time again. But it's a story, that takes your hand, and shows you a world, which you most certainly haven't seen before. And it does this in a way, that makes you feel all warm-and-fuzzy inside.<br />
+And isn't that already everything you can expect from a good book? </p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Elternzeit</title>
+      <link>http://www.ambestengestern.de/blog/elternzeit</link>
+      <pubDate>So, 15 Mai 2011 13:12:10 CEST</pubDate>
+      <category><![CDATA[children]]></category>
+      <guid>b'BypUbxCHDSsjSqLoyaKqEm1zzV0='</guid>
+      <description>Elternzeit</description>
+      <content:encoded><![CDATA[<p>Seit dem ersten Geburtstag von meinem Sohn Noah bin ich in Elternzeit. Zwei Monate lang. Was ein viel zu kurzer Zeitraum ist, aber um einen Song zu zitieren, den die <a href="http://itunes.apple.com/de/tv-season/glee-staffel-1/id410908728">Glee Kids</a> letztens (in meiner Zeitrechnung jedenfalls) gesungen haben: <em>"You can't always get what you want"!</em></p>
+<p>Ein inoffzielles Anliegen von mir vor Beginn der Elternzeit war es, jeden Tag niederzuschreiben, wie es war. Wie der Tag gelaufen ist. Welche Gefühle es auslöst, den ganzen Tag für meinen Sohn da zu sein, im Gegensatz zu den paar Stunden morgens, die ich bisher für ihn da sein konnte. </p>
+<p>Und was ist daraus geworden? Das Leben. Die Tage. Dass ich Noah zur Priorität und alles andere für unwichtig erklärt habe. Um dieses kurze Kleinod des "Hausmann &amp; Vater sein" auszukosten.<br />
+Ich gebe zu, dass es mir unheimlichen Spaß und große Freude bereitet ein Mittagessen für die Familie zuzubereiten, mich mit dem Kleinen zum ausgedehnten Mittagsschlaf hinzulegen und dabei zu erleben wie er sich Tag für Tag dabei immer mehr an mich kuschelt und in meinen Armen einschläft.<br />
+Tolles Wetter draußen hin oder her, seinen einjährigen Sohn in den Armen liegen zu haben, wie er sich völlig vertrauens- und liebenswürdig an mich drückt ist durch nichts zu schlagen.<br />
+Außerdem hatte ich dadurch auch immer wieder Zeit in Neil Gaiman's <a href="http://en.wikipedia.org/wiki/The_Graveyard_Book">"Graveyard Book"</a> zu lesen, das auch noch perfekt zur Stimmung gepasst hat.</p>
+<p>So sind also schon drei der acht Wochen vergangen und ich weiß jetzt schon, dass es mir sehr schwer fallen wird, die Prioritäten wieder ein Stück von Noah weg verschieben zu müssen, sobald ich wieder arbeiten muss.<br />
+Bis dahin werde ich aber jede Sekunde dieser wunderbar magischen Zeit geniessen.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Goodspeed! You Black Emperor - Sleep</title>
+      <link>http://www.ambestengestern.de/blog/goodspeed!-you-black-emperor---sleep</link>
+      <pubDate>So, 17 Apr 2011 10:43:26 CEST</pubDate>
+      <category><![CDATA[gybe]]></category>
+      <category><![CDATA[music]]></category>
+      <category><![CDATA[zweitagessong]]></category>
+      <guid>b'eMjxGhphzT7mkx_IiZgSkfHQvK0='</guid>
+      <description>Goodspeed! You Black Emperor - Sleep</description>
+      <content:encoded><![CDATA[<p>Das Lied beginnt mit der traurigsten gesprochenen Einleitung überhaupt. Ein alter Mann erzählt von <a href="http://de.wikipedia.org/wiki/Coney_Island">Coney Island</a> bzw der Version von Coney Island, die er als Kind/Jugendlicher erlebt hat. </p>
+<blockquote>
+<p>Coney Island. They called Coney Island the playground of the world. There was no place like it. In the whole world. Like Coney Island when I was a youngster. [...] Anyways, let's see, what else? [...] they don't sleep anymore on the beach. </p>
+</blockquote>
+<p>Und das Lied, ist nicht nur die musikgewordene Traurigkeit dieser Einleitung, sondern noch viel mehr. Es hat, wie nahezu alle GY!BE Lieder, eine unfassbare Kraft. Und trotz aller Traurigkeit auch Hoffnung. Oder Trotz? Oder auch nur eine unglaublich große Projektionsfläche?! Letztlich muss das jeder für sich entscheiden.</p>
+<p>Für mich waren/sind GY!BE Einstieg in ein komplett neues Musikuniversum. Eher zufällig gefunden, im Veranstaltungskalender des Frankfurter <a href="http://mousonturm.de/">Mousonturm</a>, könnte ich mich heute noch schwarz ärgern, dass ich damals (2000? 2001?) nicht zum Konzert gegangen bin. Denn es war ihre letzte Tour durch Deutschland (und Europa?!).<br />
+Seitdem sind sie mehr oder weniger getrennt und haben außer im letzten Jahr, in dem sie einige wenige Konzerte, wie z.B. beim legendären und großartigen <a href="http://www.youtube.com/watch?v=NmyAF_D9Mzk">ATP Festival</a>, gespielt haben, keinen neuen Output geliefert.<br />
+UPDATE: Stimmt nicht. Dieses Jahr spielen sie <a href="http://www.atpfestival.com/newsview/1104121140.php">wieder auf dem ATP Festival</a>.</p>
+<p>Anyways: Sleep ist einer der größten Songs aller Zeiten für mich. Wir haben soviel zusammen erlebt, wir zwei. Ganze Nächte durch Frankfurt laufen. Alles schläft nur Benjamin läuft mit des alten Manne Stimme im Ohr durch die Stadt. Schaurig schön.</p>
+<p><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/q8kgu6rf0Ek?fs=1&amp;hl=de_DE"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/q8kgu6rf0Ek?fs=1&amp;hl=de_DE" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Reading: Why Does Software Cost So Much</title>
+      <link>http://www.ambestengestern.de/blog/reading--why-does-software-cost-so-much</link>
+      <pubDate>Di, 01 Mär 2011 16:19:00 CET</pubDate>
+      <category><![CDATA[bookreview]]></category>
+      <category><![CDATA[tomdemarco]]></category>
+      <category><![CDATA[0star]]></category>
+      <category><![CDATA[readinglist]]></category>
+      <guid>b'aRHNQik45vKAt4YLay4LPaKnOdw='</guid>
+      <description>Reading: Why Does Software Cost So Much</description>
+      <content:encoded><![CDATA[<p>The book by <a href="http://en.wikipedia.org/wiki/Tom_DeMarco">Tom DeMarco</a> with the subtitle "and other puzzles of the information age" is a collection of essays, some of which hadn't been published prior to this book.</p>
+<p>I must admit, I fell victim to the sensational title. I was aware, that the book is from 1995, but I thought Tom DeMarco (of whom I haven't read any other book yet) was some kind of quality-guarantue, and one can't do anything wrong when reading any of his works.<br />
+Boy, was I mistaken. Guess what his answer to the books title question is?! The professionals in the software world were simply too good in the past, and almost always over-performed and fulfilled unreasonably high expectations and requirements.<br />
+So what should we do in the future? Tell our customers to relax and point them to our great achievements of the past, while also telling them that we all should really get more realistic about expectations and costs.<br />
+All very solid advice.</p>
+<p>The book even has a tutorial on "Desktop Video". You know, the kind where you record your computer's graphic output on VCR so you don't have to handle with Overhead Projectors anymore.</p>
+<p>Yes, it was my own fault, to have bought and read this book.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>A very outdated book, that demonstrates very clearly that not all writing is for eternity.</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

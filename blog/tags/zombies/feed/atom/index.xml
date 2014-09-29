@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+   >
+  <title type="text">ambestengestern.de</title>
+  <subtitle type="text">ich</subtitle>
+
+  <updated>2011-10-19T19:45:31Z</updated>
+  <generator uri="http://blogofile.com/">Blogofile</generator>
+
+  <link rel="alternate" type="text/html" href="http://www.ambestengestern.de/blog" />
+  <id>http://www.ambestengestern.de/blog/feed/atom/</id>
+  <link rel="self" type="application/atom+xml" href="http://www.ambestengestern.de/blog/feed/atom/" />
+  <entry>
+    <author>
+      <name></name>
+      <uri>http://www.ambestengestern.de/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Reading: World War Z]]></title>
+    <link rel="alternate" type="text/html" href="http://www.ambestengestern.de/blog/reading--world-war-z" />
+    <id>http://www.ambestengestern.de/blog/reading--world-war-z</id>
+    <updated>2011-06-09T21:26:35Z</updated>
+    <published>2011-06-09T21:26:35Z</published>
+    <category scheme="http://www.ambestengestern.de/blog" term="bookreview" />
+    <category scheme="http://www.ambestengestern.de/blog" term="4star" />
+    <category scheme="http://www.ambestengestern.de/blog" term="zombies" />
+    <category scheme="http://www.ambestengestern.de/blog" term="readinglist" />
+    <summary type="html"><![CDATA[Reading: World War Z]]></summary>
+    <content type="html" xml:base="http://www.ambestengestern.de/blog/reading--world-war-z"><![CDATA[<h3 id="personal_background">Personal Background</h3>
+<p>The book <a href="http://www.amazon.de/gp/product/B003WE9TU8/ref=as_li_ss_il?ie=UTF8&amp;tag=ambestengestern-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B003WE9TU8">"World War Z" by Max Brooks</a> was given to me by my long-time friend D. He had read it, and didn't want to take it back to Australia with him (airlines and luggage; a world of it's own).<br />
+Of course he recommended it as being a good read, but not with much fervor. So I put it on my stack. But somehow it always tickled me when I looked at it, because I found the story very much intriguing. </p>
+<h3 id="contents">Contents</h3>
+<p>The book's subtitle is "An Oral History Of The Zombie World War". And this is pretty much it.<br />
+The setting of the book is a world, where zombies are a reality. They walk the earth and brought the earth's population of humans onto the brink of extinction. But in an almost 10 year fight, the already mentioned "Zombie World War", people managed to fight back, and reclaim most of earth's surface.<br />
+</p>
+<p>The book tells the story, starting with the outbreak until quite some time after the war, as a series of interviews with eye witnesses from around the world. </p>
+<h3 id="conclusion">Conclusion</h3>
+<p>While the plot at first doesn't sound too original, Max Brooks manages to bring a level of authenticity into the oral accounts that ranges from stirring to shocking and simply frightening.<br />
+At some point I even asked myself if I really should read the book shortly before going to bed, because I thought, that it might keep me from sleeping well (keep in mind, that this comes from the guy who wasn't able to play Doom without God Mode because it was too exciting). Rest assured, my one-year old has a firmer grip on my sleeping habits, than any book can ever achieve.</p>
+<p>So what I'm really trying to say is: The book gives a rather standard plot-idea a serious twist and near-perfect execution and is therefore a very entertaining read.</p>]]></content>
+  </entry>
+</feed>

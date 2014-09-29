@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     >
+  <channel>
+    <title>ambestengestern.de</title>
+    <link>http://www.ambestengestern.de/blog</link>
+    <description>ich</description>
+    <pubDate>Mi, 19 Okt 2011 19:45:31 GMT</pubDate>
+    <generator>Blogofile</generator>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <title>Indie-Tages-Songs</title>
+      <link>http://www.ambestengestern.de/blog/indie-tages-songs</link>
+      <pubDate>Mi, 19 Mai 2010 13:37:49 CEST</pubDate>
+      <category><![CDATA[music]]></category>
+      <category><![CDATA[japandroids]]></category>
+      <guid>b'qwx4d8QYSF8ZPekMsR5EEQRGpJQ='</guid>
+      <description>Indie-Tages-Songs</description>
+      <content:encoded><![CDATA[<p>Gerade gefunden und für gut genug befunden: <a href="http://www.78s.ch/tag/song-des-tages/">http://www.78s.ch/tag/song-des-tages/</a></p>
+<p>Etwas Indie/Hipster-lastig, aber doch <a href="http://www.78s.ch/2009/08/18/song-des-tages-japandroids-jpndrds-young-hearts-spark-fire/">einige</a> <a href="http://www.78s.ch/2010/05/17/songs-des-tages-sommerspezial-mit-the-drums-und-pains-of-being-pure-at-heart/">Perlen</a> dabei, die durchaus Spaß machen.<br />
+Und: Keine Angst, das wird schon kein Musik-Blog hier. Später wieder nicht zumindest.</p>
+<p>(via: <a href="http://twitter.com/to01/status/14287925485">to01</a>)</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+   >
+  <title type="text">ambestengestern.de</title>
+  <subtitle type="text">ich</subtitle>
+
+  <updated>2011-05-15T18:46:18Z</updated>
+  <generator uri="http://blogofile.com/">Blogofile</generator>
+
+  <link rel="alternate" type="text/html" href="http://www.ambestengestern.de/blog" />
+  <id>http://www.ambestengestern.de/blog/feed/atom/</id>
+  <link rel="self" type="application/atom+xml" href="http://www.ambestengestern.de/blog/feed/atom/" />
+  <entry>
+    <author>
+      <name></name>
+      <uri>http://www.ambestengestern.de/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Indie-Tages-Songs]]></title>
+    <link rel="alternate" type="text/html" href="http://www.ambestengestern.de/blog/indie-tages-songs" />
+    <id>http://www.ambestengestern.de/blog/indie-tages-songs</id>
+    <updated>2010-05-19T13:37:49Z</updated>
+    <published>2010-05-19T13:37:49Z</published>
+    <category scheme="http://www.ambestengestern.de/blog" term="music" />
+    <category scheme="http://www.ambestengestern.de/blog" term="japandroids" />
+    <summary type="html"><![CDATA[Indie-Tages-Songs]]></summary>
+    <content type="html" xml:base="http://www.ambestengestern.de/blog/indie-tages-songs"><![CDATA[<p>Gerade gefunden und für gut genug befunden: <a href="http://www.78s.ch/tag/song-des-tages/">http://www.78s.ch/tag/song-des-tages/</a></p>
+<p>Etwas Indie/Hipster-lastig, aber doch <a href="http://www.78s.ch/2009/08/18/song-des-tages-japandroids-jpndrds-young-hearts-spark-fire/">einige</a> <a href="http://www.78s.ch/2010/05/17/songs-des-tages-sommerspezial-mit-the-drums-und-pains-of-being-pure-at-heart/">Perlen</a> dabei, die durchaus Spaß machen.<br />
+Und: Keine Angst, das wird schon kein Musik-Blog hier. Später wieder nicht zumindest.</p>
+<p>(via: <a href="http://twitter.com/to01/status/14287925485">to01</a>)</p>]]></content>
+  </entry>
+</feed>

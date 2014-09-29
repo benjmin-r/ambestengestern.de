@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     >
+  <channel>
+    <title>ambestengestern.de</title>
+    <link>http://www.ambestengestern.de/blog</link>
+    <description>ich</description>
+    <pubDate>Mi, 19 Okt 2011 19:45:31 GMT</pubDate>
+    <generator>Blogofile</generator>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <title>Reading: Why Does Software Cost So Much</title>
+      <link>http://www.ambestengestern.de/blog/reading--why-does-software-cost-so-much</link>
+      <pubDate>Di, 01 Mär 2011 16:19:00 CET</pubDate>
+      <category><![CDATA[bookreview]]></category>
+      <category><![CDATA[tomdemarco]]></category>
+      <category><![CDATA[0star]]></category>
+      <category><![CDATA[readinglist]]></category>
+      <guid>b'aRHNQik45vKAt4YLay4LPaKnOdw='</guid>
+      <description>Reading: Why Does Software Cost So Much</description>
+      <content:encoded><![CDATA[<p>The book by <a href="http://en.wikipedia.org/wiki/Tom_DeMarco">Tom DeMarco</a> with the subtitle "and other puzzles of the information age" is a collection of essays, some of which hadn't been published prior to this book.</p>
+<p>I must admit, I fell victim to the sensational title. I was aware, that the book is from 1995, but I thought Tom DeMarco (of whom I haven't read any other book yet) was some kind of quality-guarantue, and one can't do anything wrong when reading any of his works.<br />
+Boy, was I mistaken. Guess what his answer to the books title question is?! The professionals in the software world were simply too good in the past, and almost always over-performed and fulfilled unreasonably high expectations and requirements.<br />
+So what should we do in the future? Tell our customers to relax and point them to our great achievements of the past, while also telling them that we all should really get more realistic about expectations and costs.<br />
+All very solid advice.</p>
+<p>The book even has a tutorial on "Desktop Video". You know, the kind where you record your computer's graphic output on VCR so you don't have to handle with Overhead Projectors anymore.</p>
+<p>Yes, it was my own fault, to have bought and read this book.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>A very outdated book, that demonstrates very clearly that not all writing is for eternity.</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>
